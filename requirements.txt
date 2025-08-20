@@ -1,0 +1,10 @@
+selenium==4.15.0
+pandas==2.1.0
+requests==2.31.0
+sqlalchemy==2.0.21
+mysql-connector-python==8.1.0
+matplotlib==3.7.2
+seaborn==0.12.2
+plotly==5.17.0
+jupyter==1.0.0
+webdriver-manager==4.0.1

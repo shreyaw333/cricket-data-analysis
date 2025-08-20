@@ -1,0 +1,881 @@
+match_id,team,player_name
+300429,Bangladesh,Tamim Iqbal
+300429,Bangladesh,Junaid Siddique
+300429,Bangladesh,Habibul Bashar
+300429,Bangladesh,Mohammad Ashraful
+300429,Bangladesh,Shahriar Nafees
+300429,Bangladesh,Aftab Ahmed
+300429,Bangladesh,Mushfiqur Rahim
+300429,Bangladesh,Mashrafe Mortaza
+300429,Bangladesh,Shahadat Hossain
+300429,Bangladesh,Enamul Haque jnr
+300429,Bangladesh,Sajedul Islam
+300429,New Zealand,CD Cumming
+300429,New Zealand,MD Bell
+300429,New Zealand,PG Fulton
+300429,New Zealand,SP Fleming
+300429,New Zealand,MS Sinclair
+300429,New Zealand,JDP Oram
+300429,New Zealand,BB McCullum
+300429,New Zealand,DL Vettori
+300429,New Zealand,KD Mills
+300429,New Zealand,IE O'Brien
+300429,New Zealand,CS Martin
+291352,Australia,PA Jaques
+291352,Australia,ML Hayden
+291352,Australia,RT Ponting
+291352,Australia,MEK Hussey
+291352,Australia,MJ Clarke
+291352,Australia,A Symonds
+291352,Australia,AC Gilchrist
+291352,Australia,GB Hogg
+291352,Australia,B Lee
+291352,Australia,MG Johnson
+291352,Australia,SR Clark
+291352,India,W Jaffer
+291352,India,R Dravid
+291352,India,VVS Laxman
+291352,India,SR Tendulkar
+291352,India,SC Ganguly
+291352,India,Yuvraj Singh
+291352,India,MS Dhoni
+291352,India,A Kumble
+291352,India,Harbhajan Singh
+291352,India,RP Singh
+291352,India,I Sharma
+291354,Australia,PA Jaques
+291354,Australia,ML Hayden
+291354,Australia,RT Ponting
+291354,Australia,MEK Hussey
+291354,Australia,MJ Clarke
+291354,Australia,A Symonds
+291354,Australia,AC Gilchrist
+291354,Australia,GB Hogg
+291354,Australia,B Lee
+291354,Australia,MG Johnson
+291354,Australia,SR Clark
+291354,India,V Sehwag
+291354,India,IK Pathan
+291354,India,R Dravid
+291354,India,SR Tendulkar
+291354,India,SC Ganguly
+291354,India,VVS Laxman
+291354,India,MS Dhoni
+291354,India,A Kumble
+291354,India,Harbhajan Singh
+291354,India,RP Singh
+291354,India,I Sharma
+300442,England,AN Cook
+300442,England,MP Vaughan
+300442,England,MJ Hoggard
+300442,England,AJ Strauss
+300442,England,KP Pietersen
+300442,England,IR Bell
+300442,England,PD Collingwood
+300442,England,TR Ambrose
+300442,England,RJ Sidebottom
+300442,England,SJ Harmison
+300442,England,MS Panesar
+300442,New Zealand,JM How
+300442,New Zealand,MD Bell
+300442,New Zealand,SP Fleming
+300442,New Zealand,MS Sinclair
+300442,New Zealand,LRPL Taylor
+300442,New Zealand,JDP Oram
+300442,New Zealand,BB McCullum
+300442,New Zealand,DL Vettori
+300442,New Zealand,KD Mills
+300442,New Zealand,JS Patel
+300442,New Zealand,CS Martin
+300443,England,AN Cook
+300443,England,MP Vaughan
+300443,England,AJ Strauss
+300443,England,KP Pietersen
+300443,England,IR Bell
+300443,England,PD Collingwood
+300443,England,TR Ambrose
+300443,England,SCJ Broad
+300443,England,RJ Sidebottom
+300443,England,MS Panesar
+300443,England,JM Anderson
+300443,New Zealand,JM How
+300443,New Zealand,MD Bell
+300443,New Zealand,SP Fleming
+300443,New Zealand,MS Sinclair
+300443,New Zealand,LRPL Taylor
+300443,New Zealand,JDP Oram
+300443,New Zealand,BB McCullum
+300443,New Zealand,DL Vettori
+300443,New Zealand,KD Mills
+300443,New Zealand,MR Gillespie
+300443,New Zealand,CS Martin
+323948,Bangladesh,Tamim Iqbal
+323948,Bangladesh,Junaid Siddique
+323948,Bangladesh,Shahriar Nafees
+323948,Bangladesh,Mohammad Ashraful
+323948,Bangladesh,Abdur Razzak
+323948,Bangladesh,Aftab Ahmed
+323948,Bangladesh,Shakib Al Hasan
+323948,Bangladesh,Mushfiqur Rahim
+323948,Bangladesh,Mohammad Rafique
+323948,Bangladesh,Mashrafe Mortaza
+323948,Bangladesh,Shahadat Hossain
+323948,South Africa,ND McKenzie
+323948,South Africa,GC Smith
+323948,South Africa,HM Amla
+323948,South Africa,JH Kallis
+323948,South Africa,AG Prince
+323948,South Africa,AB de Villiers
+323948,South Africa,MV Boucher
+323948,South Africa,RJ Peterson
+323948,South Africa,DW Steyn
+323948,South Africa,M Morkel
+323948,South Africa,M Ntini
+323947,Bangladesh,Tamim Iqbal
+323947,Bangladesh,Junaid Siddique
+323947,Bangladesh,Shahriar Nafees
+323947,Bangladesh,Habibul Bashar
+323947,Bangladesh,Mohammad Ashraful
+323947,Bangladesh,Aftab Ahmed
+323947,Bangladesh,Shakib Al Hasan
+323947,Bangladesh,Mushfiqur Rahim
+323947,Bangladesh,Mohammad Rafique
+323947,Bangladesh,Mashrafe Mortaza
+323947,Bangladesh,Shahadat Hossain
+323947,South Africa,ND McKenzie
+323947,South Africa,GC Smith
+323947,South Africa,HM Amla
+323947,South Africa,JH Kallis
+323947,South Africa,AG Prince
+323947,South Africa,J Botha
+323947,South Africa,AB de Villiers
+323947,South Africa,MV Boucher
+323947,South Africa,M Morkel
+323947,South Africa,DW Steyn
+323947,South Africa,M Ntini
+298803,South Africa,GC Smith
+298803,South Africa,HH Gibbs
+298803,South Africa,HM Amla
+298803,South Africa,JH Kallis
+298803,South Africa,AG Prince
+298803,South Africa,AB de Villiers
+298803,South Africa,MV Boucher
+298803,South Africa,SM Pollock
+298803,South Africa,A Nel
+298803,South Africa,DW Steyn
+298803,South Africa,M Ntini
+298803,West Indies,D Ganga
+298803,West Indies,BA Parchment
+298803,West Indies,RS Morton
+298803,West Indies,MN Samuels
+298803,West Indies,S Chanderpaul
+298803,West Indies,DJ Bravo
+298803,West Indies,D Ramdin
+298803,West Indies,DJG Sammy
+298803,West Indies,JE Taylor
+298803,West Indies,DBL Powell
+298803,West Indies,FH Edwards
+298802,South Africa,GC Smith
+298802,South Africa,ND McKenzie
+298802,South Africa,HM Amla
+298802,South Africa,JH Kallis
+298802,South Africa,AG Prince
+298802,South Africa,AB de Villiers
+298802,South Africa,MV Boucher
+298802,South Africa,PL Harris
+298802,South Africa,A Nel
+298802,South Africa,DW Steyn
+298802,South Africa,M Ntini
+298802,West Indies,CH Gayle
+298802,West Indies,D Ganga
+298802,West Indies,RS Morton
+298802,West Indies,MN Samuels
+298802,West Indies,S Chanderpaul
+298802,West Indies,DJ Bravo
+298802,West Indies,D Ramdin
+298802,West Indies,RN Lewis
+298802,West Indies,JE Taylor
+298802,West Indies,DBL Powell
+298802,West Indies,FH Edwards
+300430,Bangladesh,Tamim Iqbal
+300430,Bangladesh,Junaid Siddique
+300430,Bangladesh,Habibul Bashar
+300430,Bangladesh,Mohammad Ashraful
+300430,Bangladesh,Shahriar Nafees
+300430,Bangladesh,Aftab Ahmed
+300430,Bangladesh,Mushfiqur Rahim
+300430,Bangladesh,Shakib Al Hasan
+300430,Bangladesh,Shahadat Hossain
+300430,Bangladesh,Sajedul Islam
+300430,Bangladesh,Mashrafe Mortaza
+300430,New Zealand,CD Cumming
+300430,New Zealand,MD Bell
+300430,New Zealand,PG Fulton
+300430,New Zealand,SP Fleming
+300430,New Zealand,MS Sinclair
+300430,New Zealand,JDP Oram
+300430,New Zealand,BB McCullum
+300430,New Zealand,DL Vettori
+300430,New Zealand,KD Mills
+300430,New Zealand,IE O'Brien
+300430,New Zealand,CS Martin
+1004285,Hong Kong,Aizaz Khan
+1004285,Hong Kong,C Carter
+1004285,Hong Kong,Babar Hayat
+1004285,Hong Kong,Nizakat Khan
+1004285,Hong Kong,Anshuman Rath
+1004285,Hong Kong,Ehsan Khan
+1004285,Hong Kong,Shahid Wasif
+1004285,Hong Kong,Waqas Khan
+1004285,Hong Kong,Tanwir Afzal
+1004285,Hong Kong,Nadeem Ahmed
+1004285,Hong Kong,Tanveer Ahmed
+1004285,Scotland,KJ Coetzer
+1004285,Scotland,MH Cross
+1004285,Scotland,CS MacLeod
+1004285,Scotland,MA Leask
+1004285,Scotland,RD Berrington
+1004285,Scotland,CD de Lange
+1004285,Scotland,CD Wallace
+1004285,Scotland,SM Sharif
+1004285,Scotland,MRJ Watt
+1004285,Scotland,AC Evans
+1004285,Scotland,CB Sole
+1001371,Australia,DA Warner
+1001371,Australia,AJ Finch
+1001371,Australia,SPD Smith
+1001371,Australia,GJ Bailey
+1001371,Australia,MR Marsh
+1001371,Australia,TM Head
+1001371,Australia,MS Wade
+1001371,Australia,PJ Cummins
+1001371,Australia,MA Starc
+1001371,Australia,A Zampa
+1001371,Australia,JR Hazlewood
+1001371,New Zealand,MJ Guptill
+1001371,New Zealand,TWM Latham
+1001371,New Zealand,KS Williamson
+1001371,New Zealand,JDS Neesham
+1001371,New Zealand,BJ Watling
+1001371,New Zealand,C Munro
+1001371,New Zealand,MJ Santner
+1001371,New Zealand,C de Grandhomme
+1001371,New Zealand,MJ Henry
+1001371,New Zealand,LH Ferguson
+1001371,New Zealand,TA Boult
+1000887,Australia,DA Warner
+1000887,Australia,TM Head
+1000887,Australia,SPD Smith
+1000887,Australia,CA Lynn
+1000887,Australia,MR Marsh
+1000887,Australia,GJ Maxwell
+1000887,Australia,MS Wade
+1000887,Australia,JP Faulkner
+1000887,Australia,PJ Cummins
+1000887,Australia,MA Starc
+1000887,Australia,B Stanlake
+1000887,Pakistan,Azhar Ali
+1000887,Pakistan,Sharjeel Khan
+1000887,Pakistan,Mohammad Hafeez
+1000887,Pakistan,Babar Azam
+1000887,Pakistan,Umar Akmal
+1000887,Pakistan,Mohammad Rizwan
+1000887,Pakistan,Imad Wasim
+1000887,Pakistan,Mohammad Nawaz (3)
+1000887,Pakistan,Mohammad Amir
+1000887,Pakistan,Wahab Riaz
+1000887,Pakistan,Hasan Ali
+1000891,Australia,DA Warner
+1000891,Australia,UT Khawaja
+1000891,Australia,SPD Smith
+1000891,Australia,PSP Handscomb
+1000891,Australia,TM Head
+1000891,Australia,GJ Maxwell
+1000891,Australia,MS Wade
+1000891,Australia,JP Faulkner
+1000891,Australia,PJ Cummins
+1000891,Australia,JR Hazlewood
+1000891,Australia,B Stanlake
+1000891,Pakistan,Mohammad Hafeez
+1000891,Pakistan,Sharjeel Khan
+1000891,Pakistan,Babar Azam
+1000891,Pakistan,Asad Shafiq
+1000891,Pakistan,Shoaib Malik
+1000891,Pakistan,Umar Akmal
+1000891,Pakistan,Imad Wasim
+1000891,Pakistan,Mohammad Rizwan
+1000891,Pakistan,Mohammad Amir
+1000891,Pakistan,Hasan Ali
+1000891,Pakistan,Junaid Khan
+1004283,Hong Kong,Nizakat Khan
+1004283,Hong Kong,Aizaz Khan
+1004283,Hong Kong,Babar Hayat
+1004283,Hong Kong,Anshuman Rath
+1004283,Hong Kong,Ehsan Khan
+1004283,Hong Kong,Tanwir Afzal
+1004283,Hong Kong,Shahid Wasif
+1004283,Hong Kong,C Carter
+1004283,Hong Kong,Waqas Khan
+1004283,Hong Kong,Nadeem Ahmed
+1004283,Hong Kong,Tanveer Ahmed
+1004283,Scotland,KJ Coetzer
+1004283,Scotland,CD Wallace
+1004283,Scotland,CS MacLeod
+1004283,Scotland,MH Cross
+1004283,Scotland,RD Berrington
+1004283,Scotland,PL Mommsen
+1004283,Scotland,CD de Lange
+1004283,Scotland,SM Sharif
+1004283,Scotland,MRJ Watt
+1004283,Scotland,AC Evans
+1004283,Scotland,CB Sole
+1001373,Australia,DA Warner
+1001373,Australia,AJ Finch
+1001373,Australia,SPD Smith
+1001373,Australia,TM Head
+1001373,Australia,MR Marsh
+1001373,Australia,MS Wade
+1001373,Australia,GJ Bailey
+1001373,Australia,PJ Cummins
+1001373,Australia,MA Starc
+1001373,Australia,JP Faulkner
+1001373,Australia,JR Hazlewood
+1001373,New Zealand,MJ Guptill
+1001373,New Zealand,TWM Latham
+1001373,New Zealand,KS Williamson
+1001373,New Zealand,JDS Neesham
+1001373,New Zealand,C Munro
+1001373,New Zealand,C de Grandhomme
+1001373,New Zealand,MJ Santner
+1001373,New Zealand,BJ Watling
+1001373,New Zealand,TG Southee
+1001373,New Zealand,MJ Henry
+1001373,New Zealand,TA Boult
+1000889,Australia,UT Khawaja
+1000889,Australia,DA Warner
+1000889,Australia,SPD Smith
+1000889,Australia,MR Marsh
+1000889,Australia,TM Head
+1000889,Australia,GJ Maxwell
+1000889,Australia,MS Wade
+1000889,Australia,JP Faulkner
+1000889,Australia,MA Starc
+1000889,Australia,PJ Cummins
+1000889,Australia,JR Hazlewood
+1000889,Pakistan,Mohammad Hafeez
+1000889,Pakistan,Sharjeel Khan
+1000889,Pakistan,Babar Azam
+1000889,Pakistan,Asad Shafiq
+1000889,Pakistan,Shoaib Malik
+1000889,Pakistan,Umar Akmal
+1000889,Pakistan,Mohammad Rizwan
+1000889,Pakistan,Imad Wasim
+1000889,Pakistan,Mohammad Amir
+1000889,Pakistan,Hasan Ali
+1000889,Pakistan,Junaid Khan
+1000893,Australia,UT Khawaja
+1000893,Australia,DA Warner
+1000893,Australia,SPD Smith
+1000893,Australia,TM Head
+1000893,Australia,GJ Maxwell
+1000893,Australia,MS Wade
+1000893,Australia,MA Starc
+1000893,Australia,PSP Handscomb
+1000893,Australia,PJ Cummins
+1000893,Australia,A Zampa
+1000893,Australia,JR Hazlewood
+1000893,Pakistan,Azhar Ali
+1000893,Pakistan,Sharjeel Khan
+1000893,Pakistan,Babar Azam
+1000893,Pakistan,Mohammad Hafeez
+1000893,Pakistan,Shoaib Malik
+1000893,Pakistan,Umar Akmal
+1000893,Pakistan,Mohammad Rizwan
+1000893,Pakistan,Imad Wasim
+1000893,Pakistan,Mohammad Amir
+1000893,Pakistan,Hasan Ali
+1000893,Pakistan,Junaid Khan
+1000895,Australia,DA Warner
+1000895,Australia,TM Head
+1000895,Australia,SPD Smith
+1000895,Australia,GJ Maxwell
+1000895,Australia,MS Wade
+1000895,Australia,PSP Handscomb
+1000895,Australia,JP Faulkner
+1000895,Australia,MA Starc
+1000895,Australia,PJ Cummins
+1000895,Australia,A Zampa
+1000895,Australia,JR Hazlewood
+1000895,Pakistan,Azhar Ali
+1000895,Pakistan,Sharjeel Khan
+1000895,Pakistan,Babar Azam
+1000895,Pakistan,Mohammad Hafeez
+1000895,Pakistan,Shoaib Malik
+1000895,Pakistan,Umar Akmal
+1000895,Pakistan,Mohammad Rizwan
+1000895,Pakistan,Mohammad Amir
+1000895,Pakistan,Wahab Riaz
+1000895,Pakistan,Hasan Ali
+1000895,Pakistan,Junaid Khan
+1001375,Australia,DA Warner
+1001375,Australia,AJ Finch
+1001375,Australia,SPD Smith
+1001375,Australia,GJ Bailey
+1001375,Australia,MR Marsh
+1001375,Australia,TM Head
+1001375,Australia,MS Wade
+1001375,Australia,JP Faulkner
+1001375,Australia,MA Starc
+1001375,Australia,PJ Cummins
+1001375,Australia,JR Hazlewood
+1001375,New Zealand,MJ Guptill
+1001375,New Zealand,TWM Latham
+1001375,New Zealand,KS Williamson
+1001375,New Zealand,HM Nicholls
+1001375,New Zealand,C Munro
+1001375,New Zealand,BJ Watling
+1001375,New Zealand,C de Grandhomme
+1001375,New Zealand,MJ Santner
+1001375,New Zealand,TG Southee
+1001375,New Zealand,LH Ferguson
+1001375,New Zealand,TA Boult
+1004729,Hong Kong,Nizakat Khan
+1004729,Hong Kong,Aizaz Khan
+1004729,Hong Kong,Babar Hayat
+1004729,Hong Kong,Anshuman Rath
+1004729,Hong Kong,Ehsan Khan
+1004729,Hong Kong,Tanwir Afzal
+1004729,Hong Kong,Shahid Wasif
+1004729,Hong Kong,Tanveer Ahmed
+1004729,Hong Kong,Ehsan Nawaz
+1004729,Hong Kong,Nadeem Ahmed
+1004729,Hong Kong,C Carter
+1004729,Ireland,WTS Porterfield
+1004729,Ireland,DA Rankin
+1004729,Ireland,SP Terry
+1004729,Ireland,JNK Shannon
+1004729,Ireland,KJ O'Brien
+1004729,Ireland,GJ Thompson
+1004729,Ireland,AR McBrine
+1004729,Ireland,L Tucker
+1004729,Ireland,J Mulder
+1004729,Ireland,J Little
+1004729,Ireland,CA Young
+1019983,Bangladesh,Tamim Iqbal
+1019983,Bangladesh,Soumya Sarkar
+1019983,Bangladesh,Sabbir Rahman
+1019983,Bangladesh,Shakib Al Hasan
+1019983,Bangladesh,Mahmudullah
+1019983,Bangladesh,Mosaddek Hossain
+1019983,Bangladesh,Nurul Hasan
+1019983,Bangladesh,Rubel Hossain
+1019983,Bangladesh,Imrul Kayes
+1019983,Bangladesh,Mashrafe Mortaza
+1019983,Bangladesh,Taskin Ahmed
+1019983,New Zealand,KS Williamson
+1019983,New Zealand,JDS Neesham
+1019983,New Zealand,C Munro
+1019983,New Zealand,TC Bruce
+1019983,New Zealand,CJ Anderson
+1019983,New Zealand,C de Grandhomme
+1019983,New Zealand,TA Blundell
+1019983,New Zealand,MJ Santner
+1019983,New Zealand,BM Wheeler
+1019983,New Zealand,TA Boult
+1019983,New Zealand,IS Sodhi
+1007657,India,KL Rahul
+1007657,India,Mandeep Singh
+1007657,India,AT Rayudu
+1007657,India,MK Pandey
+1007657,India,KM Jadhav
+1007657,India,MS Dhoni
+1007657,India,AR Patel
+1007657,India,DS Kulkarni
+1007657,India,JJ Bumrah
+1007657,India,BB Sran
+1007657,India,YS Chahal
+1007657,Zimbabwe,CJ Chibhabha
+1007657,Zimbabwe,H Masakadza
+1007657,Zimbabwe,PJ Moor
+1007657,Zimbabwe,Sikandar Raza
+1007657,Zimbabwe,CT Mutombodzi
+1007657,Zimbabwe,MN Waller
+1007657,Zimbabwe,E Chigumbura
+1007657,Zimbabwe,AG Cremer
+1007657,Zimbabwe,N Madziva
+1007657,Zimbabwe,DT Tiripano
+1007657,Zimbabwe,T Muzarabani
+1001351,Australia,M Klinger
+1001351,Australia,AJ Finch
+1001351,Australia,BR Dunk
+1001351,Australia,MC Henriques
+1001351,Australia,TM Head
+1001351,Australia,AJ Turner
+1001351,Australia,JP Faulkner
+1001351,Australia,TD Paine
+1001351,Australia,PJ Cummins
+1001351,Australia,AJ Tye
+1001351,Australia,JA Richardson
+1001351,Sri Lanka,N Dickwella
+1001351,Sri Lanka,WU Tharanga
+1001351,Sri Lanka,EMDY Munaweera
+1001351,Sri Lanka,BKG Mendis
+1001351,Sri Lanka,DAS Gunaratne
+1001351,Sri Lanka,TAM Siriwardana
+1001351,Sri Lanka,CK Kapugedera
+1001351,Sri Lanka,S Prasanna
+1001351,Sri Lanka,KMDN Kulasekara
+1001351,Sri Lanka,SL Malinga
+1001351,Sri Lanka,JRMVB Sanjaya
+1001349,Australia,AJ Finch
+1001349,Australia,M Klinger
+1001349,Australia,TM Head
+1001349,Australia,MC Henriques
+1001349,Australia,AJ Turner
+1001349,Australia,JP Faulkner
+1001349,Australia,TD Paine
+1001349,Australia,PJ Cummins
+1001349,Australia,A Zampa
+1001349,Australia,B Stanlake
+1001349,Australia,AJ Tye
+1001349,Sri Lanka,N Dickwella
+1001349,Sri Lanka,WU Tharanga
+1001349,Sri Lanka,EMDY Munaweera
+1001349,Sri Lanka,DAS Gunaratne
+1001349,Sri Lanka,TAM Siriwardana
+1001349,Sri Lanka,CK Kapugedera
+1001349,Sri Lanka,S Prasanna
+1001349,Sri Lanka,JRMVB Sanjaya
+1001349,Sri Lanka,SL Malinga
+1001349,Sri Lanka,KMDN Kulasekara
+1001349,Sri Lanka,PADLR Sandakan
+1007659,India,KL Rahul
+1007659,India,Mandeep Singh
+1007659,India,AT Rayudu
+1007659,India,MK Pandey
+1007659,India,KM Jadhav
+1007659,India,MS Dhoni
+1007659,India,AR Patel
+1007659,India,DS Kulkarni
+1007659,India,JJ Bumrah
+1007659,India,BB Sran
+1007659,India,YS Chahal
+1007659,Zimbabwe,CJ Chibhabha
+1007659,Zimbabwe,H Masakadza
+1007659,Zimbabwe,V Sibanda
+1007659,Zimbabwe,PJ Moor
+1007659,Zimbabwe,MN Waller
+1007659,Zimbabwe,E Chigumbura
+1007659,Zimbabwe,T Maruma
+1007659,Zimbabwe,AG Cremer
+1007659,Zimbabwe,N Madziva
+1007659,Zimbabwe,DT Tiripano
+1007659,Zimbabwe,TL Chatara
+1019981,Bangladesh,Tamim Iqbal
+1019981,Bangladesh,Imrul Kayes
+1019981,Bangladesh,Sabbir Rahman
+1019981,Bangladesh,Shakib Al Hasan
+1019981,Bangladesh,Soumya Sarkar
+1019981,Bangladesh,Mahmudullah
+1019981,Bangladesh,Mosaddek Hossain
+1019981,Bangladesh,Nurul Hasan
+1019981,Bangladesh,Mashrafe Mortaza
+1019981,Bangladesh,Rubel Hossain
+1019981,Bangladesh,Mustafizur Rahman
+1019981,New Zealand,L Ronchi
+1019981,New Zealand,KS Williamson
+1019981,New Zealand,C Munro
+1019981,New Zealand,CJ Anderson
+1019981,New Zealand,TC Bruce
+1019981,New Zealand,C de Grandhomme
+1019981,New Zealand,JDS Neesham
+1019981,New Zealand,MJ Santner
+1019981,New Zealand,BM Wheeler
+1019981,New Zealand,IS Sodhi
+1019981,New Zealand,TA Boult
+1001353,Australia,AJ Finch
+1001353,Australia,M Klinger
+1001353,Australia,BR Dunk
+1001353,Australia,TM Head
+1001353,Australia,MC Henriques
+1001353,Australia,AJ Turner
+1001353,Australia,JP Faulkner
+1001353,Australia,TD Paine
+1001353,Australia,PJ Cummins
+1001353,Australia,JA Richardson
+1001353,Australia,A Zampa
+1001353,Sri Lanka,EMDY Munaweera
+1001353,Sri Lanka,WU Tharanga
+1001353,Sri Lanka,BKG Mendis
+1001353,Sri Lanka,DAS Gunaratne
+1001353,Sri Lanka,TAM Siriwardana
+1001353,Sri Lanka,CK Kapugedera
+1001353,Sri Lanka,MD Shanaka
+1001353,Sri Lanka,S Prasanna
+1001353,Sri Lanka,KMDN Kulasekara
+1001353,Sri Lanka,SL Malinga
+1001353,Sri Lanka,JRMVB Sanjaya
+1007655,India,KL Rahul
+1007655,India,Mandeep Singh
+1007655,India,AT Rayudu
+1007655,India,MK Pandey
+1007655,India,KM Jadhav
+1007655,India,MS Dhoni
+1007655,India,AR Patel
+1007655,India,R Dhawan
+1007655,India,JJ Bumrah
+1007655,India,JD Unadkat
+1007655,India,YS Chahal
+1007655,Zimbabwe,CJ Chibhabha
+1007655,Zimbabwe,H Masakadza
+1007655,Zimbabwe,R Mutumbami
+1007655,Zimbabwe,Sikandar Raza
+1007655,Zimbabwe,MN Waller
+1007655,Zimbabwe,CT Mutombodzi
+1007655,Zimbabwe,E Chigumbura
+1007655,Zimbabwe,AG Cremer
+1007655,Zimbabwe,N Madziva
+1007655,Zimbabwe,T Muzarabani
+1007655,Zimbabwe,DT Tiripano
+1019979,Bangladesh,Tamim Iqbal
+1019979,Bangladesh,Imrul Kayes
+1019979,Bangladesh,Sabbir Rahman
+1019979,Bangladesh,Shakib Al Hasan
+1019979,Bangladesh,Soumya Sarkar
+1019979,Bangladesh,Mahmudullah
+1019979,Bangladesh,Mosaddek Hossain
+1019979,Bangladesh,Mashrafe Mortaza
+1019979,Bangladesh,Nurul Hasan
+1019979,Bangladesh,Rubel Hossain
+1019979,Bangladesh,Mustafizur Rahman
+1019979,New Zealand,NT Broom
+1019979,New Zealand,KS Williamson
+1019979,New Zealand,C Munro
+1019979,New Zealand,CJ Anderson
+1019979,New Zealand,TC Bruce
+1019979,New Zealand,C de Grandhomme
+1019979,New Zealand,L Ronchi
+1019979,New Zealand,MJ Santner
+1019979,New Zealand,BM Wheeler
+1019979,New Zealand,MJ Henry
+1019979,New Zealand,LH Ferguson
+1082591,Royal Challengers Bangalore,CH Gayle
+1082591,Royal Challengers Bangalore,Mandeep Singh
+1082591,Royal Challengers Bangalore,TM Head
+1082591,Royal Challengers Bangalore,KM Jadhav
+1082591,Royal Challengers Bangalore,SR Watson
+1082591,Royal Challengers Bangalore,Sachin Baby
+1082591,Royal Challengers Bangalore,STR Binny
+1082591,Royal Challengers Bangalore,S Aravind
+1082591,Royal Challengers Bangalore,TS Mills
+1082591,Royal Challengers Bangalore,YS Chahal
+1082591,Royal Challengers Bangalore,A Choudhary
+1082591,Sunrisers Hyderabad,DA Warner
+1082591,Sunrisers Hyderabad,S Dhawan
+1082591,Sunrisers Hyderabad,MC Henriques
+1082591,Sunrisers Hyderabad,Yuvraj Singh
+1082591,Sunrisers Hyderabad,DJ Hooda
+1082591,Sunrisers Hyderabad,BCJ Cutting
+1082591,Sunrisers Hyderabad,NV Ojha
+1082591,Sunrisers Hyderabad,Bipul Sharma
+1082591,Sunrisers Hyderabad,B Kumar
+1082591,Sunrisers Hyderabad,A Nehra
+1082591,Sunrisers Hyderabad,Rashid Khan
+1082600,Mumbai Indians,PA Patel
+1082600,Mumbai Indians,JC Buttler
+1082600,Mumbai Indians,RG Sharma
+1082600,Mumbai Indians,N Rana
+1082600,Mumbai Indians,KA Pollard
+1082600,Mumbai Indians,KH Pandya
+1082600,Mumbai Indians,HH Pandya
+1082600,Mumbai Indians,Harbhajan Singh
+1082600,Mumbai Indians,MJ McClenaghan
+1082600,Mumbai Indians,SL Malinga
+1082600,Mumbai Indians,JJ Bumrah
+1082600,Sunrisers Hyderabad,S Dhawan
+1082600,Sunrisers Hyderabad,DA Warner
+1082600,Sunrisers Hyderabad,DJ Hooda
+1082600,Sunrisers Hyderabad,Yuvraj Singh
+1082600,Sunrisers Hyderabad,BCJ Cutting
+1082600,Sunrisers Hyderabad,NV Ojha
+1082600,Sunrisers Hyderabad,V Shankar
+1082600,Sunrisers Hyderabad,Rashid Khan
+1082600,Sunrisers Hyderabad,B Kumar
+1082600,Sunrisers Hyderabad,A Nehra
+1082600,Sunrisers Hyderabad,Mustafizur Rahman
+1082597,Kolkata Knight Riders,G Gambhir
+1082597,Kolkata Knight Riders,CA Lynn
+1082597,Kolkata Knight Riders,RV Uthappa
+1082597,Kolkata Knight Riders,MK Pandey
+1082597,Kolkata Knight Riders,YK Pathan
+1082597,Kolkata Knight Riders,SA Yadav
+1082597,Kolkata Knight Riders,CR Woakes
+1082597,Kolkata Knight Riders,SP Narine
+1082597,Kolkata Knight Riders,Kuldeep Yadav
+1082597,Kolkata Knight Riders,AS Rajpoot
+1082597,Kolkata Knight Riders,TA Boult
+1082597,Mumbai Indians,PA Patel
+1082597,Mumbai Indians,JC Buttler
+1082597,Mumbai Indians,N Rana
+1082597,Mumbai Indians,RG Sharma
+1082597,Mumbai Indians,KH Pandya
+1082597,Mumbai Indians,KA Pollard
+1082597,Mumbai Indians,HH Pandya
+1082597,Mumbai Indians,Harbhajan Singh
+1082597,Mumbai Indians,MJ McClenaghan
+1082597,Mumbai Indians,SL Malinga
+1082597,Mumbai Indians,JJ Bumrah
+1082596,Gujarat Lions,JJ Roy
+1082596,Gujarat Lions,BB McCullum
+1082596,Gujarat Lions,SK Raina
+1082596,Gujarat Lions,AJ Finch
+1082596,Gujarat Lions,KD Karthik
+1082596,Gujarat Lions,DR Smith
+1082596,Gujarat Lions,DS Kulkarni
+1082596,Gujarat Lions,P Kumar
+1082596,Gujarat Lions,Basil Thampi
+1082596,Gujarat Lions,Tejas Baroka
+1082596,Gujarat Lions,S Kaushik
+1082596,Sunrisers Hyderabad,DA Warner
+1082596,Sunrisers Hyderabad,S Dhawan
+1082596,Sunrisers Hyderabad,MC Henriques
+1082596,Sunrisers Hyderabad,Yuvraj Singh
+1082596,Sunrisers Hyderabad,DJ Hooda
+1082596,Sunrisers Hyderabad,BCJ Cutting
+1082596,Sunrisers Hyderabad,NV Ojha
+1082596,Sunrisers Hyderabad,Bipul Sharma
+1082596,Sunrisers Hyderabad,B Kumar
+1082596,Sunrisers Hyderabad,A Nehra
+1082596,Sunrisers Hyderabad,Rashid Khan
+1082599,Delhi Daredevils,AP Tare
+1082599,Delhi Daredevils,SW Billings
+1082599,Delhi Daredevils,SV Samson
+1082599,Delhi Daredevils,RR Pant
+1082599,Delhi Daredevils,CJ Anderson
+1082599,Delhi Daredevils,CH Morris
+1082599,Delhi Daredevils,KK Nair
+1082599,Delhi Daredevils,PJ Cummins
+1082599,Delhi Daredevils,A Mishra
+1082599,Delhi Daredevils,Z Khan
+1082599,Delhi Daredevils,S Nadeem
+1082599,Rising Pune Supergiant,AM Rahane
+1082599,Rising Pune Supergiant,MA Agarwal
+1082599,Rising Pune Supergiant,F du Plessis
+1082599,Rising Pune Supergiant,RA Tripathi
+1082599,Rising Pune Supergiant,BA Stokes
+1082599,Rising Pune Supergiant,MS Dhoni
+1082599,Rising Pune Supergiant,R Bhatia
+1082599,Rising Pune Supergiant,DL Chahar
+1082599,Rising Pune Supergiant,A Zampa
+1082599,Rising Pune Supergiant,AB Dinda
+1082599,Rising Pune Supergiant,Imran Tahir
+1082595,Royal Challengers Bangalore,CH Gayle
+1082595,Royal Challengers Bangalore,SR Watson
+1082595,Royal Challengers Bangalore,Mandeep Singh
+1082595,Royal Challengers Bangalore,KM Jadhav
+1082595,Royal Challengers Bangalore,STR Binny
+1082595,Royal Challengers Bangalore,Vishnu Vinod
+1082595,Royal Challengers Bangalore,P Negi
+1082595,Royal Challengers Bangalore,Iqbal Abdulla
+1082595,Royal Challengers Bangalore,TS Mills
+1082595,Royal Challengers Bangalore,YS Chahal
+1082595,Royal Challengers Bangalore,B Stanlake
+1082595,Delhi Daredevils,AP Tare
+1082595,Delhi Daredevils,SW Billings
+1082595,Delhi Daredevils,KK Nair
+1082595,Delhi Daredevils,SV Samson
+1082595,Delhi Daredevils,RR Pant
+1082595,Delhi Daredevils,CH Morris
+1082595,Delhi Daredevils,CR Brathwaite
+1082595,Delhi Daredevils,PJ Cummins
+1082595,Delhi Daredevils,A Mishra
+1082595,Delhi Daredevils,S Nadeem
+1082595,Delhi Daredevils,Z Khan
+1082594,Kings XI Punjab,HM Amla
+1082594,Kings XI Punjab,M Vohra
+1082594,Kings XI Punjab,WP Saha
+1082594,Kings XI Punjab,AR Patel
+1082594,Kings XI Punjab,GJ Maxwell
+1082594,Kings XI Punjab,DA Miller
+1082594,Kings XI Punjab,MP Stoinis
+1082594,Kings XI Punjab,Swapnil Singh
+1082594,Kings XI Punjab,MM Sharma
+1082594,Kings XI Punjab,Sandeep Sharma
+1082594,Kings XI Punjab,T Natarajan
+1082594,Rising Pune Supergiant,AM Rahane
+1082594,Rising Pune Supergiant,MA Agarwal
+1082594,Rising Pune Supergiant,SPD Smith
+1082594,Rising Pune Supergiant,BA Stokes
+1082594,Rising Pune Supergiant,MS Dhoni
+1082594,Rising Pune Supergiant,MK Tiwary
+1082594,Rising Pune Supergiant,DT Christian
+1082594,Rising Pune Supergiant,R Bhatia
+1082594,Rising Pune Supergiant,RD Chahar
+1082594,Rising Pune Supergiant,Imran Tahir
+1082594,Rising Pune Supergiant,AB Dinda
+1082598,Kings XI Punjab,M Vohra
+1082598,Kings XI Punjab,HM Amla
+1082598,Kings XI Punjab,AR Patel
+1082598,Kings XI Punjab,GJ Maxwell
+1082598,Kings XI Punjab,WP Saha
+1082598,Kings XI Punjab,DA Miller
+1082598,Kings XI Punjab,MP Stoinis
+1082598,Kings XI Punjab,MM Sharma
+1082598,Kings XI Punjab,Sandeep Sharma
+1082598,Kings XI Punjab,VR Aaron
+1082598,Kings XI Punjab,T Natarajan
+1082598,Royal Challengers Bangalore,SR Watson
+1082598,Royal Challengers Bangalore,Vishnu Vinod
+1082598,Royal Challengers Bangalore,AB de Villiers
+1082598,Royal Challengers Bangalore,KM Jadhav
+1082598,Royal Challengers Bangalore,Mandeep Singh
+1082598,Royal Challengers Bangalore,STR Binny
+1082598,Royal Challengers Bangalore,P Negi
+1082598,Royal Challengers Bangalore,Iqbal Abdulla
+1082598,Royal Challengers Bangalore,TS Mills
+1082598,Royal Challengers Bangalore,B Stanlake
+1082598,Royal Challengers Bangalore,YS Chahal
+1082593,Gujarat Lions,JJ Roy
+1082593,Gujarat Lions,BB McCullum
+1082593,Gujarat Lions,SK Raina
+1082593,Gujarat Lions,AJ Finch
+1082593,Gujarat Lions,KD Karthik
+1082593,Gujarat Lions,DR Smith
+1082593,Gujarat Lions,MS Gony
+1082593,Gujarat Lions,P Kumar
+1082593,Gujarat Lions,SB Jakati
+1082593,Gujarat Lions,DS Kulkarni
+1082593,Gujarat Lions,S Kaushik
+1082593,Kolkata Knight Riders,G Gambhir
+1082593,Kolkata Knight Riders,CA Lynn
+1082593,Kolkata Knight Riders,RV Uthappa
+1082593,Kolkata Knight Riders,MK Pandey
+1082593,Kolkata Knight Riders,YK Pathan
+1082593,Kolkata Knight Riders,SA Yadav
+1082593,Kolkata Knight Riders,CR Woakes
+1082593,Kolkata Knight Riders,PP Chawla
+1082593,Kolkata Knight Riders,Kuldeep Yadav
+1082593,Kolkata Knight Riders,SP Narine
+1082593,Kolkata Knight Riders,TA Boult
+1082592,Mumbai Indians,PA Patel
+1082592,Mumbai Indians,JC Buttler
+1082592,Mumbai Indians,RG Sharma
+1082592,Mumbai Indians,N Rana
+1082592,Mumbai Indians,AT Rayudu
+1082592,Mumbai Indians,KH Pandya
+1082592,Mumbai Indians,KA Pollard
+1082592,Mumbai Indians,HH Pandya
+1082592,Mumbai Indians,TG Southee
+1082592,Mumbai Indians,MJ McClenaghan
+1082592,Mumbai Indians,JJ Bumrah
+1082592,Rising Pune Supergiant,AM Rahane
+1082592,Rising Pune Supergiant,MA Agarwal
+1082592,Rising Pune Supergiant,SPD Smith
+1082592,Rising Pune Supergiant,BA Stokes
+1082592,Rising Pune Supergiant,MS Dhoni
+1082592,Rising Pune Supergiant,MK Tiwary
+1082592,Rising Pune Supergiant,R Bhatia
+1082592,Rising Pune Supergiant,DL Chahar
+1082592,Rising Pune Supergiant,A Zampa
+1082592,Rising Pune Supergiant,AB Dinda
+1082592,Rising Pune Supergiant,Imran Tahir

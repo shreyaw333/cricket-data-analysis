@@ -1,0 +1,41 @@
+match_id,format,city,venue,date,match_type,season,team1,team2,toss_winner,toss_decision,winner,result_type,result_margin,player_of_match,umpire1,umpire2,data_version,created,revision
+300429,tests,Dunedin,University Oval,2008-01-04,Test,2007/08,New Zealand,Bangladesh,New Zealand,field,New Zealand,wickets,9.0,JDP Oram,NJ Llong,PD Parker,1.0.0,2014-06-17,1
+291352,tests,,Sydney Cricket Ground,2008-01-02,Test,2007/08,Australia,India,Australia,bat,Australia,runs,122.0,A Symonds,MR Benson,SA Bucknor,1.0.0,2014-06-17,1
+291354,tests,,Adelaide Oval,2008-01-24,Test,2007/08,Australia,India,India,bat,,other,,SR Tendulkar,Asad Rauf,BF Bowden,1.0.0,2014-06-17,1
+300442,tests,Hamilton,Seddon Park,2008-03-05,Test,2007/08,New Zealand,England,New Zealand,bat,New Zealand,runs,189.0,DL Vettori,SJ Davis,DJ Harper,1.0.0,2014-06-18,1
+300443,tests,Wellington,Basin Reserve,2008-03-13,Test,2007/08,New Zealand,England,New Zealand,field,England,runs,126.0,TR Ambrose,SJ Davis,RE Koertzen,1.0.0,2014-06-19,1
+323948,tests,,Chittagong Divisional Stadium,2008-02-29,Test,2007/08,Bangladesh,South Africa,South Africa,bat,South Africa,runs,205.0,GC Smith,Aleem Dar,SA Bucknor,1.0.0,2014-06-19,1
+323947,tests,Mirpur,Shere Bangla National Stadium,2008-02-22,Test,2007/08,Bangladesh,South Africa,Bangladesh,bat,South Africa,wickets,5.0,JH Kallis,Aleem Dar,SA Bucknor,1.0.0,2014-06-17,1
+298803,tests,Durban,Kingsmead,2008-01-10,Test,2007/08,South Africa,West Indies,South Africa,field,South Africa,runs,100.0,AG Prince,Aleem Dar,SJA Taufel,1.0.0,2014-06-18,1
+298802,tests,Cape Town,Newlands,2008-01-02,Test,2007/08,South Africa,West Indies,West Indies,bat,South Africa,wickets,7.0,AG Prince,SJA Taufel,RB Tiffin,1.0.0,2014-06-19,2
+300430,tests,Wellington,Basin Reserve,2008-01-12,Test,2007/08,New Zealand,Bangladesh,New Zealand,field,New Zealand,runs,137.0,DL Vettori,NJ Llong,PD Parker,1.0.0,2014-06-18,1
+1004285,odis,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",2016-09-10,ODI,2016,Scotland,Hong Kong,Scotland,bat,Scotland,runs,53.0,,GO Brathwaite,IN Ramage,1.0.0,2016-09-14,1
+1001371,odis,,Sydney Cricket Ground,2016-12-04,ODI,2016/17,Australia,New Zealand,Australia,bat,Australia,runs,68.0,SPD Smith,HDPK Dharmasena,MD Martell,1.0.0,2016-12-11,1
+1000887,odis,Brisbane,"Brisbane Cricket Ground, Woolloongabba",2017-01-13,ODI,2016/17,Australia,Pakistan,Australia,bat,Australia,runs,92.0,MS Wade,MD Martell,C Shamshuddin,1.0.0,2017-01-14,2
+1000891,odis,Perth,Western Australia Cricket Association Ground,2017-01-19,ODI,2016/17,Australia,Pakistan,Australia,field,Australia,wickets,7.0,SPD Smith,SD Fry,C Shamshuddin,1.0.0,2017-01-21,1
+1004283,odis,Edinburgh,"Grange Cricket Club Ground, Raeburn Place",2016-09-08,ODI,2016,Scotland,Hong Kong,Hong Kong,field,,other,,,GO Brathwaite,IN Ramage,1.0.0,2016-09-13,1
+1001373,odis,Canberra,Manuka Oval,2016-12-06,ODI,2016/17,Australia,New Zealand,New Zealand,field,Australia,runs,116.0,DA Warner,HDPK Dharmasena,P Wilson,1.0.0,2016-12-11,1
+1000889,odis,,Melbourne Cricket Ground,2017-01-15,ODI,2016/17,Australia,Pakistan,Australia,bat,Pakistan,wickets,6.0,Mohammad Hafeez,CB Gaffaney,P Wilson,1.0.0,2017-01-18,1
+1000893,odis,,Sydney Cricket Ground,2017-01-22,ODI,2016/17,Australia,Pakistan,Australia,bat,Australia,runs,86.0,DA Warner,CB Gaffaney,MD Martell,1.0.0,2017-01-22,1
+1000895,odis,,Adelaide Oval,2017-01-26,ODI,2016/17,Australia,Pakistan,Australia,bat,Australia,runs,57.0,DA Warner,SD Fry,C Shamshuddin,1.0.0,2017-01-28,1
+1001375,odis,,Melbourne Cricket Ground,2016-12-09,ODI,2016/17,Australia,New Zealand,Australia,bat,Australia,runs,117.0,DA Warner,NJ Llong,MD Martell,1.0.0,2016-12-11,1
+1004729,t20s,Londonderry,"Bready Cricket Club, Magheramason",2016-09-05,T20,2016,Ireland,Hong Kong,Hong Kong,bat,Hong Kong,runs,40.0,,R Black,AJ Neill,1.0.0,2016-09-12,1
+1019983,t20s,Mount Maunganui,Bay Oval,2017-01-08,T20,2016/17,New Zealand,Bangladesh,Bangladesh,field,New Zealand,runs,27.0,CJ Anderson,CM Brown,WR Knights,1.0.0,2017-01-08,2
+1007657,t20s,,Harare Sports Club,2016-06-20,T20,2016,Zimbabwe,India,Zimbabwe,bat,India,wickets,10.0,BB Sran,L Rusere,RB Tiffin,1.0.0,2016-06-21,1
+1001351,t20s,Victoria,"Simonds Stadium, South Geelong",2017-02-19,T20,2016/17,Australia,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,2.0,DAS Gunaratne,SD Fry,SJ Nogajski,1.0.0,2017-02-19,2
+1001349,t20s,,Melbourne Cricket Ground,2017-02-17,T20,2016/17,Australia,Sri Lanka,Sri Lanka,field,Sri Lanka,wickets,5.0,DAS Gunaratne,MD Martell,P Wilson,1.0.0,2017-02-18,2
+1007659,t20s,,Harare Sports Club,2016-06-22,T20,2016,Zimbabwe,India,Zimbabwe,field,India,runs,3.0,KM Jadhav,TJ Matibiri,RB Tiffin,1.0.0,2016-06-25,1
+1019981,t20s,Mount Maunganui,Bay Oval,2017-01-06,T20,2016/17,New Zealand,Bangladesh,Bangladesh,field,New Zealand,runs,47.0,C Munro,CM Brown,SB Haig,1.0.0,2017-01-08,1
+1001353,t20s,,Adelaide Oval,2017-02-22,T20,2016/17,Australia,Sri Lanka,Sri Lanka,field,Australia,runs,41.0,A Zampa,MD Martell,P Wilson,1.0.0,2017-02-23,1
+1007655,t20s,,Harare Sports Club,2016-06-18,T20,2016,Zimbabwe,India,India,field,Zimbabwe,runs,2.0,E Chigumbura,TJ Matibiri,RB Tiffin,1.0.0,2016-06-19,1
+1019979,t20s,Napier,McLean Park,2017-01-03,T20,2016/17,New Zealand,Bangladesh,Bangladesh,bat,New Zealand,wickets,6.0,KS Williamson,SB Haig,WR Knights,1.0.0,2017-01-08,1
+1082591,ipl,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-04-05,T20,2017,Sunrisers Hyderabad,Royal Challengers Bangalore,Royal Challengers Bangalore,field,Sunrisers Hyderabad,runs,35.0,Yuvraj Singh,AY Dandekar,NJ Llong,1.0.0,2017-04-06,1
+1082600,ipl,Mumbai,Wankhede Stadium,2017-04-12,T20,2017,Mumbai Indians,Sunrisers Hyderabad,Mumbai Indians,field,Mumbai Indians,wickets,4.0,JJ Bumrah,Nitin Menon,CK Nandan,1.0.0,2017-04-12,1
+1082597,ipl,Mumbai,Wankhede Stadium,2017-04-09,T20,2017,Mumbai Indians,Kolkata Knight Riders,Mumbai Indians,field,Mumbai Indians,wickets,4.0,N Rana,Nitin Menon,CK Nandan,1.0.0,2017-04-09,1
+1082596,ipl,Hyderabad,"Rajiv Gandhi International Stadium, Uppal",2017-04-09,T20,2017,Sunrisers Hyderabad,Gujarat Lions,Sunrisers Hyderabad,field,Sunrisers Hyderabad,wickets,9.0,Rashid Khan,A Deshmukh,NJ Llong,1.0.0,2017-04-09,1
+1082599,ipl,Pune,Maharashtra Cricket Association Stadium,2017-04-11,T20,2017,Rising Pune Supergiant,Delhi Daredevils,Rising Pune Supergiant,field,Delhi Daredevils,runs,97.0,SV Samson,AY Dandekar,S Ravi,1.0.0,2017-04-11,1
+1082595,ipl,Bengaluru,M.Chinnaswamy Stadium,2017-04-08,T20,2017,Royal Challengers Bangalore,Delhi Daredevils,Royal Challengers Bangalore,bat,Royal Challengers Bangalore,runs,15.0,KM Jadhav,S Ravi,VK Sharma,1.0.0,2017-04-08,2
+1082594,ipl,Indore,Holkar Cricket Stadium,2017-04-08,T20,2017,Kings XI Punjab,Rising Pune Supergiant,Kings XI Punjab,field,Kings XI Punjab,wickets,6.0,GJ Maxwell,AK Chaudhary,C Shamshuddin,1.0.0,2017-04-08,1
+1082598,ipl,Indore,Holkar Cricket Stadium,2017-04-10,T20,2017,Kings XI Punjab,Royal Challengers Bangalore,Royal Challengers Bangalore,bat,Kings XI Punjab,wickets,8.0,AR Patel,AK Chaudhary,C Shamshuddin,1.0.0,2017-04-10,1
+1082593,ipl,Rajkot,Saurashtra Cricket Association Stadium,2017-04-07,T20,2017,Gujarat Lions,Kolkata Knight Riders,Kolkata Knight Riders,field,Kolkata Knight Riders,wickets,10.0,CA Lynn,Nitin Menon,CK Nandan,1.0.0,2017-04-07,2
+1082592,ipl,Pune,Maharashtra Cricket Association Stadium,2017-04-06,T20,2017,Rising Pune Supergiant,Mumbai Indians,Rising Pune Supergiant,field,Rising Pune Supergiant,wickets,7.0,SPD Smith,A Nand Kishore,S Ravi,1.0.0,2017-04-07,1

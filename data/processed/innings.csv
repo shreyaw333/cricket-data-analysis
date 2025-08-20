@@ -1,0 +1,97 @@
+match_id,innings_number,batting_team,total_overs,total_runs,total_wickets,extras
+300429,1,Bangladesh,47,137,10,9
+300429,2,New Zealand,91,357,10,19
+300429,3,Bangladesh,84,254,10,11
+300429,4,New Zealand,9,39,1,0
+291352,1,Australia,113,463,10,18
+291352,2,India,139,532,10,31
+291352,3,Australia,107,401,7,23
+291352,4,India,71,210,10,2
+291354,1,India,153,526,10,45
+291354,2,Australia,181,563,10,43
+291354,3,India,90,269,8,26
+300442,1,New Zealand,139,470,10,11
+300442,2,England,174,348,10,11
+300442,3,New Zealand,55,177,9,5
+300442,4,England,55,110,10,11
+300443,1,England,107,342,10,28
+300443,2,New Zealand,58,198,10,10
+300443,3,England,98,293,10,16
+300443,4,New Zealand,101,311,10,12
+323948,1,South Africa,162,583,7,20
+323948,2,Bangladesh,71,259,10,25
+323948,3,Bangladesh,40,119,9,9
+323947,1,Bangladesh,55,192,10,11
+323947,2,South Africa,61,170,10,10
+323947,3,Bangladesh,73,182,10,9
+323947,4,South Africa,68,205,5,5
+298803,1,West Indies,35,139,10,7
+298803,2,South Africa,120,556,4,13
+298803,3,West Indies,87,317,9,10
+298802,1,West Indies,92,243,10,24
+298802,2,South Africa,119,321,10,12
+298802,3,West Indies,102,262,10,25
+298802,4,South Africa,36,186,3,7
+300430,1,Bangladesh,46,143,10,13
+300430,2,New Zealand,104,393,10,51
+300430,3,Bangladesh,47,113,9,13
+1004285,1,Scotland,50,266,7,15
+1004285,2,Hong Kong,47,213,10,11
+1001371,1,Australia,50,324,8,15
+1001371,2,New Zealand,45,256,10,8
+1000887,1,Australia,50,268,9,11
+1000887,2,Pakistan,43,176,10,14
+1000891,1,Pakistan,50,263,7,15
+1000891,2,Australia,45,265,3,8
+1004283,1,Scotland,20,153,6,3
+1004283,2,Hong Kong,18,136,4,14
+1001373,1,Australia,50,378,5,24
+1001373,2,New Zealand,48,262,10,5
+1000889,1,Australia,49,220,10,18
+1000889,2,Pakistan,48,221,4,13
+1000893,1,Australia,50,353,6,10
+1000893,2,Pakistan,44,267,10,9
+1000895,1,Australia,50,369,7,11
+1000895,2,Pakistan,50,312,10,15
+1001375,1,Australia,50,264,8,18
+1001375,2,New Zealand,37,147,10,6
+1004729,1,Hong Kong,20,169,5,10
+1004729,2,Ireland,20,129,10,13
+1019983,1,New Zealand,20,194,4,16
+1019983,2,Bangladesh,20,167,6,4
+1007657,1,Zimbabwe,20,99,9,9
+1007657,2,India,14,103,0,4
+1001351,1,Australia,20,173,10,8
+1001351,2,Sri Lanka,20,176,8,7
+1001349,1,Australia,20,168,6,7
+1001349,2,Sri Lanka,20,172,5,13
+1007659,1,India,20,138,6,4
+1007659,2,Zimbabwe,20,135,6,12
+1019981,1,New Zealand,20,195,7,8
+1019981,2,Bangladesh,19,148,10,15
+1001353,1,Australia,20,187,6,8
+1001353,2,Sri Lanka,18,146,10,9
+1007655,1,Zimbabwe,20,170,7,9
+1007655,2,India,20,168,6,13
+1019979,1,Bangladesh,20,141,8,18
+1019979,2,New Zealand,18,143,4,3
+1082591,1,Sunrisers Hyderabad,20,207,4,7
+1082591,2,Royal Challengers Bangalore,20,172,10,6
+1082600,1,Sunrisers Hyderabad,20,158,8,11
+1082600,2,Mumbai Indians,19,159,6,4
+1082597,1,Kolkata Knight Riders,20,178,7,9
+1082597,2,Mumbai Indians,20,180,6,12
+1082596,1,Gujarat Lions,20,135,7,3
+1082596,2,Sunrisers Hyderabad,16,140,1,3
+1082599,1,Delhi Daredevils,20,205,4,8
+1082599,2,Rising Pune Supergiant,17,108,10,5
+1082595,1,Royal Challengers Bangalore,20,157,8,6
+1082595,2,Delhi Daredevils,20,142,9,5
+1082594,1,Rising Pune Supergiant,20,163,6,6
+1082594,2,Kings XI Punjab,19,164,4,10
+1082598,1,Royal Challengers Bangalore,20,148,4,4
+1082598,2,Kings XI Punjab,15,150,2,6
+1082593,1,Gujarat Lions,20,183,4,4
+1082593,2,Kolkata Knight Riders,15,184,0,15
+1082592,1,Mumbai Indians,20,184,8,8
+1082592,2,Rising Pune Supergiant,20,187,3,4
